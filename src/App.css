@@ -1,6 +1,26 @@
+.citybtn {
+  background-color: #c6bcde;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
 .App {
   text-align: center;
 }
+.alignleft{
+  display:inline-block;
+  float:left;
+  margin-left: 20px;
+}
+.alignright{
+  display:inline-block;
+  margin-right: 20px;}
 
 .App-logo {
   height: 40vmin;
